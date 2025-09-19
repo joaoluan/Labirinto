@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Labirinto
+comment1.params=filename
+comment1.target=void\ criaLabirinto(java.lang.String)
+comment2.params=
+comment2.target=void\ imprimeLabirinto()
+comment3.params=
+comment3.target=boolean\ percorreLabirinto()
+comment4.params=x\ y
+comment4.target=boolean\ percorreLabirintoRec(int,\ int)
+numComments=5

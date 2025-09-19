@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ValidadorLabirinto
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nomeArquivo\ esperado
+comment2.target=void\ testarLabirinto(java.lang.String,\ boolean)
+numComments=3
